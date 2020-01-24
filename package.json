@@ -1,0 +1,11 @@
+{
+  "name": "kong-refactor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iamlazyen/kong-refactor.git",
+  "author": "depeng <kongdepeng520@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
