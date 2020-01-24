@@ -1,19 +1,17 @@
-[
-  {
+export default {
     "customer": "BigCo",
     "performances": [
       {
-        "playID": "hamlet",
+        playID: 'hamlet',
         "audience": 55
       },
       {
-        "playID": "as-like",
+        playID: 'as-like',
         "audience": 35
       },
       {
-        "playID": "othello",
+        playID: 'othello',
         "audience": 40
       }
     ]
   }
-]
